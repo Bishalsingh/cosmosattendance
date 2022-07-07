@@ -4,7 +4,7 @@ import 'package:cosmos_routine/size_config.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-const kPrimaryColor = Color(0xFF893B1A);
+const kPrimaryColor = Color(0xFFE74F13);
 const kPrimaryLightColor = Color(0xFFFFECDF);
 const kPrimaryGradientColor = LinearGradient(
   begin: Alignment.topLeft,

@@ -40,18 +40,23 @@ class _RoutineManagementState extends State<RoutineManagement> {
             items: [
               BottomNavigationBarItem(
                 icon: Icon(Icons.home),
+                label: ''
               ),
               BottomNavigationBarItem(
                 icon: Icon(Icons.insert_chart),
+                  label: ''
               ),
               BottomNavigationBarItem(
                 icon: Icon(Icons.done),
+                  label: ''
               ),
               BottomNavigationBarItem(
                 icon: Icon(Icons.calendar_today),
+                  label: ''
               ),
               BottomNavigationBarItem(
                 icon: Icon(Icons.chat_bubble),
+                  label: ''
               ),
             ],
           ),
